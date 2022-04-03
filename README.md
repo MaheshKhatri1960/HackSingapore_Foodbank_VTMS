@@ -1,10 +1,10 @@
 # HackSingapore_Foodbank_VTMS
 
-1.0  <b>Overview </b> - Volunteer to Task Management System (VTMS) - Team MK Submission for HackSingapore's No Code Low Code Challenge for Food Bank Singapore
+1.0 - <b>Overview </b> - Volunteer to Task Management System (VTMS) - Team MK Submission for HackSingapore's No Code Low Code Challenge for Food Bank Singapore
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS - Overview](http://www.kaytek.co.in/images/fbsgvtms/mk_vtms_intro_1175_369.png)
 
-<b>Food Bank Singapore (FB SG) Volunteer Task Management System (VTMS)</b>  has two linked web cloud based software modules: Volunteer & Administration which are used as the frontend and backend work activities respectively.
+Our proposed solution <bVolunteer Task Management System (VTMS)</b>  has two linked web cloud based software modules: a Volunteer module & an Administration module which are used as the frontend and backend work activities respectively.
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS - Module Activities](http://www.kaytek.co.in/images/fbsgvtms/mk_vtms_overview_1280_720.png)
 
