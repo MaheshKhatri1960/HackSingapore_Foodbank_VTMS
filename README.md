@@ -38,7 +38,9 @@ It has the following functionalities as represented by the buttons shown above i
 
 2.1.4 - Browse available Food Bank Volunteer Job Role / Task details - Duties & Responsibilities, Requirements & Qualifications as defined by Food Bank in the administration module.
 
-2.1.5 - 
+2.1.5 - Watch Food Bank's volunteer job role / task Youtube videos. These are propsoed to be organized based on Food Bank Location wise, Work Area / Function wise & Job Role Task wise for easier viewing. 2 sample videos have been uploaded for viewing here. One for warehouse volunteers, another for outdoor delivery tasks.  
+
+2.1.6 
 
 2.2 - <b> Administration module </b> - Enables FB SG to browse volunteer profile & interests, create tasks, approve task applications, automatically send task application receipt & task approval emails. It also stores data relating to volunteer task management - FB SG locations, facilities, work shift timings, restrictions, work areas / functions, job role duties & responsibilities, requirements & qualifications and manage database along with other key stakeholders such as beneficiaries, donors & volunteer groups. This is for both individuals & organisations. See Screen 3 below. 
 
@@ -119,10 +121,12 @@ Password - 'hacksg2022'
 5.6 - VTMS functionality of sending Email confirmations to volunteers for task application as well as task approvals is functioning.
   
 5.7 - We had planned to incorporate User Login / Signup via Facebook & Google but could not do so due to time limitation.
+
+5.9 - We could not incorporate 'Junior Club' volunteers as a separate module though it can get covered within the existing system.
   
-5.8 - It is recommended to listen to the video pitch using a microphone for a better experience.
+5.10 - It is recommended to listen to the video pitch using a microphone for a better experience.
   
-5.9 - We apologize in advance for any software defects / bugs in the system due to the time constraint of the hackathon. You are kindly requested to bring this to our immediate attention at our email address. We shall strive to resolve them at the earliest. 
+5.11 - We apologize in advance for any software defects / bugs in the system due to the time constraint of the hackathon. You are kindly requested to bring this to our immediate attention at our email address. We shall strive to resolve them at the earliest. 
 
 <b>Summary</b> - We sincerely thank you for the opportunity to enable us to participate in this project and also thanking you for your valued time in reviewing our submission.
 
