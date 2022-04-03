@@ -44,7 +44,17 @@ A few points as regards the above are further articulated below :
 
 2.2.2 - <b> ERP / Other System Linkages </b> - Based on our understanding of requirements from Food Bank, they would have decided on a Tech Partner and an ERP system. We have strive to keep in mind the various Data interfaces or linkages that may be required between VTMS and the other systems as per the future requirements. Also, phased implementation of future software modules / functionality for verification of volunteer NRIC / FIN data or Driving License data from the relevant Singapore authorities has been planned.
 
-2.3 - <b>Mass Usability</b> - To achieve FB SG goal of ending food hunger within the shortest time frame, their operations have to be scaled up in a disproportionate manner with higher degrees of automation and digital efficencies without increasing Administration Staff Count. A global web based cloud platform based on a solution created on an automated software (no code low code) in a reusable modular fashion can help achieve the same. For mass adoption, the volunteer module user interface will be further enhanced with responsive mobile design to ensure attraction from a young volunteer base. 
+2.3 - <b>Mass Usability</b> 
+
+2.3.1 - <b> Global Platform</b> - To achieve FB SG goal of ending food hunger within the shortest time frame, their operations have to be scaled up in a disproportionate manner with higher degrees of automation and digital efficencies without increasing Administration Staff Count. A global web based cloud platform based on a solution created on an automated software (no code low code) in a reusable modular fashion can help achieve the same. 
+
+2.3.2 - <Responsive Design> - For mass adoption, the volunteer module user interface will need to be further enhanced with responsive mobile design to ensure attraction from a young volunteer base. The same will be done for the administration module too.
+  
+2.4 - <b> Creativity</b>
+  
+2.4.1 - <b>Balance</b> - One of the toughest challenges in this solution design is to strike a fine balance between time convenience of volunteers and administration staff versus the degree of data discipline and depth required for the unstructured complex nature of the volunteering tasks in an increasingly  higher level of scale of operations. 
+  
+2.4.2 - <Best Practices</b> - We strived to look at global best practices to emulate for this project's design and implementation.  
 
 <p align="center"> <b>Screen 4 - VTMS - Salient features as regards the four judging criteria </b></p> <br>
 
