@@ -68,6 +68,15 @@ The next row displays the buttons representing four different master information
 
 2.2.4 - <b>Work Areas / Functions</b> - This lists the different functional work areas that are relevant to Food Bank operations. Volunteer Job Roles get defined within a parent work area / function. Or conversely, a work area / function can have multiple volunteer job roles. e.g. For 'Delivery Logistics' work area, one could have 'Delivery Assistant' and 'Driver Volunteer' as separate volunteer job roles.
 
+2.2.5 - <b>Define Volunteer Job Role </b> - Here, for each job role, the duties & responsibilities, the requirements and qualifications are defined within a location & work area. 
+
+In the next row, the other activites that can be done in the Administration module are shown :
+
+2.2.6 - <b> Create Volunteer Task </b> - This allows the creation of new volunteer tasks for a specific location, volunteer job role, time range and number of persons required. These tasks will show up in the volunteer module from where interested volunteers can appy for the same.
+
+2.2.7 - <b> Manage Individual Volunteer Details </b> - The administrator can manage the database of volunteers. As of now, only the basic essential volunteer fields are shown. It is proposed of course to show all the volunter additional detail fields & job role interest as mentioned in 2.1.2 & 2.1.3 above at the earliest in the near future. There is also a search field which has been shown to filter. This search facility will be significantly enhanced in the future as it will be a very important tool for Food Bank to match volunteers to tasks or vice versa.
+
+
 
 
 
