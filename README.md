@@ -40,7 +40,12 @@ It has the following functionalities as represented by the buttons shown above i
 
 2.1.5 - Watch Food Bank's volunteer job role / task Youtube videos. These are propsoed to be organized based on Food Bank Location wise, Work Area / Function wise & Job Role Task wise for easier viewing. 2 sample videos have been uploaded for viewing here. One for warehouse volunteers, another for outdoor delivery tasks.  
 
-2.1.6 
+2.1.6 - Apply for Volunteer Job Roles offering services on an open calendar. This module has been currently optimized for Warehouse Volunteers. This will enable volunteers to offer their time based services on their personal time flexibility using the open calendar as a useful tool. Once they apply, they get an application confirmation email automatically.
+
+2.1.7 - In addition to applying via a calendar, a volunteer can also respond to specific Volunteer Job Role Tasks as defined by Food Bank. Here too, once they apply, they get a task application confirmation email automatically. Further fine tuning needs to be done to handle the different time slot wise restrictions as may be applicable (similar to the 5 volunteers per morning / afternoon time slot) for different job roles across different work areas at the different locations.
+
+
+
 
 2.2 - <b> Administration module </b> - Enables FB SG to browse volunteer profile & interests, create tasks, approve task applications, automatically send task application receipt & task approval emails. It also stores data relating to volunteer task management - FB SG locations, facilities, work shift timings, restrictions, work areas / functions, job role duties & responsibilities, requirements & qualifications and manage database along with other key stakeholders such as beneficiaries, donors & volunteer groups. This is for both individuals & organisations. See Screen 3 below. 
 
