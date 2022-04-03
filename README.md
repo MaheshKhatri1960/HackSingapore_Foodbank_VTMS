@@ -92,7 +92,7 @@ The Bank Box & Warehouse modules are working for creation of data but have been 
 
 The Country module is also working for creation of data but since the scope of current Food Book operations is only in Singapore, it has not been used. However, we have seen in various media properties on Food Bank co-founder Ms Nichol Ng stated plans to expand Food Bank operations to other Asian countries. Hence, the country module will be used in the future.
 
-2.2.10.3 - <b>Software currently not created</b> - These pertain to the 'Employee', 'Individual Beneficiary', 'Individual Donor' & An Event / Program / Activity / Roadshow   Creation Module for which volunteers would be required. e.g. Food Bank's 'Joy In Every Bundle' Activity.  
+2.2.10.3 - <b>Software currently not created</b> - These pertain to the 'Employee', 'Individual Beneficiary', 'Individual Donor' & An 'Event / Program / Activity / Roadshow' Module for which volunteers would be required. e.g. Food Bank's 'Joy In Every Bundle' Activity.  
 
 3.0 - <b>Project Judging Parameters</b> - Please find below in Screen 4 our perspective as regards our project's features across the four judging criteria of Design, Technical Complexity, Mass Usability & Creativity. 
 
