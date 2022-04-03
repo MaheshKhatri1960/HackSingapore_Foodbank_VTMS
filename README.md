@@ -30,6 +30,8 @@ The system is based on a web based cloud platform. Please see the following Logi
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS Project as per four judging criteria ](http://www.kaytek.co.in/images/fbsgvtms/vtms_judging_criteria_points_1280_720.png)
 
+<p align="center"> <b>Screen 4 - VTMS - Salient features as regards the four judging criteria </b></p> <br>
+
 A few points as regards the above are further articulated below :
 
 2.1 - <b>Design</b> 
@@ -55,8 +57,6 @@ A few points as regards the above are further articulated below :
 2.4.1 - <b>Balance</b> - One of the toughest challenges in this solution design is to strike a fine balance between time convenience of volunteers and administration staff versus the degree of data discipline and depth required for the unstructured complex nature of the volunteering tasks in an increasingly  higher level of scale of operations. 
   
 2.4.2 - <b> Best Practices</b> - We strived to look at global best practices to emulate for this project's design and implementation. These can be detailed appropriately. 
-
-<p align="center"> <b>Screen 4 - VTMS - Salient features as regards the four judging criteria </b></p> <br>
 
 3.0 - <b>Usage Instructions for checking out the system </b> :
 
@@ -99,6 +99,10 @@ Password - 'hacksg2022'
 4.6 - VTMS functionality of sending Email confirmations to volunteers for task application as well as task approvals is functioning.
   
 4.7 - We had planned to incorporate User Login / Signup via Facebook & Google but could not do so due to time limitation.
+  
+4.8 - It is recommended to listen to the video pitch using a microphone for a better experience.
+  
+4.9 - We apologize in advance for any software defects / bugs in the system due to the time constraint of the hackathon. You are kindly requested to bring this to our immediate attention at our email address.
 
   <b>Summary</b> - We sincerely thank you for the opportunity to enable us to participate in this project and also thanking you for your valued time in reviewing our submission.
 
