@@ -30,6 +30,16 @@ The system is based on a web based cloud platform. Please see the following Logi
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS Project as per four judging criteria ](http://www.kaytek.co.in/images/fbsgvtms/vtms_judging_criteria_points_1280_720.png)
 
+A few points as regards the above are further articulated below :
+
+2.1 - <b>Design</b> 
+
+2.1.1 - <b>User Interface</b> - Needs to be consistent both between modules and also within individual screens. It is important to be functionally correct so that the system look and feel and behaviour appears uniform. We have strive this across the system.
+
+2.1.2 - <b>Software Module Reusability</b> - In addition to a consistent user interface, it is also important to have consistent design patterns in both the backend database design as well as the logic flows in the software. This will help ensure reusability leading to better long term performance and lower costs.
+
+
+
 <p align="center"> <b>Screen 4 - VTMS - Salient features as regards the four judging criteria </b></p> <br>
 
 3.0 - <b>Usage Instructions for checking out the system </b> :
