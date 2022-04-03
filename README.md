@@ -26,7 +26,9 @@ It is also proposed that the website will be compliant as per Singapore's Person
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS - Volunteer Module Screen](http://www.kaytek.co.in/images/fbsgvtms/mk_vtms_volunteer_module_898_535.png)
 
-<p align="center"> <b>Screen 2 - VTMS Volunteer Module - Main Scren </b></p> <br>
+<p align="center"> <b>Screen 2 - VTMS Volunteer Module - Main Screen </b></p> <br>
+
+At the top is a welcome message from Food Bank reflecting their mission.
 
 It has the following functionalities as represented by the buttons shown above in a Top to Down, Left to Right sequence :
 
