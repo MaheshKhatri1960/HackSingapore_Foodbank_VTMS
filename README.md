@@ -36,9 +36,13 @@ A few points as regards the above are further articulated below :
 
 2.1.1 - <b>User Interface</b> - Needs to be consistent both between modules and also within individual screens. It is important to be functionally correct so that the system look and feel and behaviour appears uniform. We have strive this across the system.
 
-2.1.2 - <b>Software Module Reusability</b> - In addition to a consistent user interface, it is also important to have consistent design patterns in both the backend database design as well as the logic flows in the software. This will help ensure reusability leading to better long term performance and lower costs.
+2.1.2 - <b>Software Module Reusability</b> - In addition to a consistent user interface, it is also important to have consistent design patterns in both the backend database design as well as the logic flows in the software for a strong foundational base. This will help ensure reusability leading to better long term performance and lower costs.
 
+2.2 - <b> Technical Complexity</b> 
 
+2.2.1 - <b> Comprehensive Functionality</b> - Technical Complexity is a derivative of Business Functionality. Within the project scope, we have strived to provide comprehensive functionality based on our understanding of the both the volunteers and administrator's roles and responsibilities. We believe this is a good starting point for helping Food Bank create a comprehensive all encompassing Volunteer management system.  
+
+2.2.2 - 
 
 <p align="center"> <b>Screen 4 - VTMS - Salient features as regards the four judging criteria </b></p> <br>
 
