@@ -42,7 +42,7 @@ A few points as regards the above are further articulated below :
 
 2.2.1 - <b> Comprehensive Functionality</b> - Technical Complexity is a derivative of Business Functionality. Within the project scope, we have strived to provide comprehensive functionality based on our understanding of the both the volunteers and administrator's roles and responsibilities. We believe this is a good starting point for helping Food Bank create a comprehensive all encompassing Volunteer management system.  
 
-2.2.2 - <b> ERP / Other System Linkages </b> - Based on our understanding of requirements from Food Bank, they would have decided on a Tech Partner and an ERP system. We have strive to keep in mind the various Data interfaces or linkages that may be required between VTMS and the other systems as per the future requirements. Also, phased implementation of future software modules / functionality for verification of volunteer NRIC / FIN data or Driving License data from the relevant Singapore authorities has been planned.
+2.2.2 - <b> ERP / Other System Linkages </b> - Based on our understanding of requirements from Food Bank, they would have decided by this time on a Tech Partner and an ERP system. We have strived to keep in mind the various Data interfaces or linkages that may be required between VTMS and the other systems as per the future requirements. Also, phased implementation of future software modules / functionality e.g. for verification of volunteer NRIC / FIN data or Driving License data from the relevant Singapore authorities has been planned.
 
 2.3 - <b>Mass Usability</b> 
 
@@ -54,7 +54,7 @@ A few points as regards the above are further articulated below :
   
 2.4.1 - <b>Balance</b> - One of the toughest challenges in this solution design is to strike a fine balance between time convenience of volunteers and administration staff versus the degree of data discipline and depth required for the unstructured complex nature of the volunteering tasks in an increasingly  higher level of scale of operations. 
   
-2.4.2 - <Best Practices</b> - We strived to look at global best practices to emulate for this project's design and implementation.  
+2.4.2 - <Best Practices</b> - We strived to look at global best practices to emulate for this project's design and implementation. These can be detailed appropriately. 
 
 <p align="center"> <b>Screen 4 - VTMS - Salient features as regards the four judging criteria </b></p> <br>
 
