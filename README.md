@@ -35,5 +35,7 @@ Please find below in Screen 4 our perspective  as regards our project's features
 
 We sincerely thank you for the opportunity to enable us to participate in this project and also thanking you for your valued time in reviewing our submission.
 
+(c) Hack Singapore, Food Bank Singapore, Mahesh Khatri 2022 onwards.
+
 
 
