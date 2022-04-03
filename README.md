@@ -84,15 +84,15 @@ For both 2.2.8 & 2.2.9, it is possible to add additional functionality via butto
 
 2.2.10 - <b> Future Modules </b> - Based on our understanding of our interactions with Food Bank and the time limitations, we decided to put these modules on which we were working in abeyance. There are 3 categories of modules :
 
-2.2.10.1 - Modules with linkages in <b>proposed FBSG future ERP system </b> for which the software has been partially developed (creation of data). These modules are Beneficiary Organization / Centre, Industry / Organizational Donor and Volunteer Organization / Group. One can enter these modules and view the fields. In both the Beneficiary and Donor categories, extensive type information has been incorporated. 
+2.2.10.1 - <b> Linkages in proposed FBSG future ERP system </b> for which the software has been partially developed (creation of data). These modules are Beneficiary Organization / Centre, Industry / Organizational Donor and Volunteer Organization / Group. One can enter these modules and view the fields. In both the Beneficiary and Donor categories, extensive type information has been incorporated. 
 
-2.2.10.2 - Modules with <b> linkages to current VTMS </b> for which software has beeen partially created (addition of data). 
+2.2.10.2 - <b> Linkages to current VTMS </b> for which software has beeen partially created (addition of data). 
 
 The Bank Box & Warehouse modules are working for creation of data but have been subsumed by the Location Module. 
 
 The Country module is also working for creation of data but since the scope of current Food Book operations is only in Singapore, it has not been used. However, we have seen in various media properties on Food Bank co-founder Ms Nichol Ng stated plans to expand Food Bank operations to other Asian countries. Hence, the country module will be used in the future.
 
-2.2.10.3 
+2.2.10.3 - <b>Software not created</b> - These pertain to the Employee, Individual Beneficiary, Individual Donor & An Events / Outdoor Activity Creation Module for complex tasks.
 
 3.0 - <b>Project Judging Parameters</b> - Please find below in Screen 4 our perspective  as regards our project's features across the four judging criteria of Design, Technical Complexity, Mass Usability & Creativity. 
 
