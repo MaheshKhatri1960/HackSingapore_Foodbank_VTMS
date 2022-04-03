@@ -42,7 +42,7 @@ It has the following functionalities as represented by the buttons shown above i
 
 2.1.5 - <b>Job Role Videos</b> - Watch Food Bank's volunteer job role / task Youtube videos. These are propsoed to be organized based on Food Bank Location wise, Work Area / Function wise & Job Role Task wise for easier viewing. 2 sample videos have been uploaded for viewing here. One for warehouse volunteers, another for outdoor delivery tasks.  
 
-2.1.6 - <b>Apply Via Calendar</b> - Apply for Volunteer Job Roles offering services on an open calendar. This module has been currently optimized for Warehouse Volunteers. This will enable volunteers to offer their time based services on their personal time flexibility using the open calendar as a useful tool. Once they apply, they get an application confirmation email automatically.
+2.1.6 - <b>Apply Via Calendar</b> - Apply for Volunteer Job Roles offering services on an open calendar. This module has been currently optimized for Warehouse Volunteers. This will enable volunteers to offer their time based services on their personal time flexibility using the open calendar as a useful tool. Once they apply, they get an application confirmation email automatically. Organizational volunteers can use the apply via calendar module for offering their services to Food Bank.
 
 2.1.7 - <b>Apply Against Task</b> - In addition to applying via a calendar, a volunteer can also respond to specific Volunteer Job Role Tasks as defined by Food Bank. Here too, once they apply, they get a task application confirmation email automatically. Further fine tuning needs to be done to handle the different time slot wise restrictions as may be applicable (similar to the 5 volunteers per morning / afternoon time slot) for different job roles across different work areas at the different locations.
 
@@ -76,7 +76,15 @@ In the next row, the other activites that can be done in the Administration modu
 
 2.2.7 - <b> Manage Individual Volunteer Details </b> - The administrator can manage the database of volunteers. As of now, only the basic essential volunteer fields are shown. It is proposed of course to show all the volunter additional detail fields & job role interest as mentioned in 2.1.2 & 2.1.3 above at the earliest in the near future. There is also a search field which has been shown to filter. This search facility will be significantly enhanced in the future as it will be a very important tool for Food Bank to match volunteers to tasks or vice versa.
 
+2.2.8 - <b> Approve Volunteer Calendar Applications</b> - This module approves the volunteer applications sent by them via the calendar interface. Once the approval is done, an email is sent to the candidate for the same. 
 
+2.2.9 - <b> Approve Volunteer Task Applications</b> - This module approves the volunteer application responses against Food Bank tasks and similar to 2.2.8 above, once the approval is done, an email is sent to the candidate for the same. 
+
+For both 2.2.8 & 2.2.9, it is possible to add additional functionality via buttons called as 'Reject' or  'Hold' for taking appropriate actions for rejecting or putting on hold a volunteer's application.    
+
+2.2.10 - <b> Future Modules </b> - Based on our understanding of our interactions with Food Bank and the time limitations, we decided to put these modules on which we were working in abeyance. There are 3 categories of modules :
+
+2.2.10.1 - Modules with linkages in proposed FBSG future ERP system for which the software has been partially developed (creation of data). These modules are Beneficiary Organization / Centre, Industry / Organizational Donor and Volunteer Organization / Group. One can enter these modules and view the fields. In both the Beneficiary and Donor categories, extensive type information has been incorporated. 
 
 
 
