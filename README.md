@@ -54,9 +54,9 @@ Password - 'omsairam'
 Username - 'naraindaskkhatri@gmail.com'
 Password - 'hacksg2022'
 
-3.3 - Important - When a volunteer user signs up, his or her email address is automatically registered as a volunteer in the system.
+3.3 - <b>Important</b> - When a volunteer user signs up, his or her email address is automatically registered as a volunteer in the system. When the volunteer logs into the system, it is suggested that she or he update her basic details such as Full Name as per NRIC / FIN, phone number. The user's email address is the unique key to the volunteer data in the system. 
 
-3.4 - Avoid using Hotmail, Yahoo, OUtlook and Live email addresses for credentials as users have reported these email addresses as not being able to deliver by Sendgrid which is the service used by Bubble.
+3.4 - <b> Email addresses </b> - Avoid using Hotmail, Yahoo, OUtlook and Live email addresses for credentials as users have reported these email addresses as not being able to deliver by Sendgrid which is the service used by Bubble.
 
 
 
