@@ -42,7 +42,7 @@ A few points as regards the above are further articulated below :
 
 2.2.1 - <b> Comprehensive Functionality</b> - Technical Complexity is a derivative of Business Functionality. Within the project scope, we have strived to provide comprehensive functionality based on our understanding of the both the volunteers and administrator's roles and responsibilities. We believe this is a good starting point for helping Food Bank create a comprehensive all encompassing Volunteer management system.  
 
-2.2.2 - 
+2.2.2 - <b> ERP / Other System Linkages </b> - Based on our understanding of requirements from Food Bank, they would have decided on a Tech Partner and an ERP system. We have strive to keep in mind the various Data interfaces or linkages that may be required between VTMS and the other systems as per the future requirements. Also, future modules for verification of volunteer NRIC / FIN data or Driving License data from the relevant Singapore authorities has been kept in mind. 
 
 <p align="center"> <b>Screen 4 - VTMS - Salient features as regards the four judging criteria </b></p> <br>
 
