@@ -28,6 +28,18 @@ It is also proposed that the website will be compliant as per Singapore's Person
 
 <p align="center"> <b>Screen 2 - VTMS Volunteer Module - Main Scren </b></p> <br>
 
+It has the following functionalities as represented by the buttons shown above in a Top to Down, Left to Right sequence :
+
+2.1.1 - Store Volunteer's basic essential profile data such as full name, telephone number, gender, etc  besides email address. This was as per our understanding that since the volunteers are young, they tend to be pretty fast on their devices and would like to store the minimal information to get started.
+
+2.1.2 - Store a volunteer's additional profile details besides the above basic data. e.g. Driver's License Information, Personal Vehicle Ownership Information, Health Declaration Information, Open to Social Media Updates, Availability and Preferences. This is captured via a Pop Up Form.
+
+2.1.3 - Enter a volunteer's job role interests based on a selection shown as defined by FB SG.
+
+2.1.4 - Browse available Food Bank Volunteer Job Role / Task details - Duties & Responsibilities, Requirements & Qualifications as defined by Food Bank in the administration module.
+
+2.1.5 - 
+
 2.2 - <b> Administration module </b> - Enables FB SG to browse volunteer profile & interests, create tasks, approve task applications, automatically send task application receipt & task approval emails. It also stores data relating to volunteer task management - FB SG locations, facilities, work shift timings, restrictions, work areas / functions, job role duties & responsibilities, requirements & qualifications and manage database along with other key stakeholders such as beneficiaries, donors & volunteer groups. This is for both individuals & organisations. See Screen 3 below. 
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS - Administration Module Screen](http://www.kaytek.co.in/images/fbsgvtms/mk_vtms_administration_module_976_438.png)
