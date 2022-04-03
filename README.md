@@ -95,6 +95,10 @@ Password - 'hacksg2022'
 4.4 - There is a check in the system of a volunteer user trying to log into the administration module or vice versa. An Error message is displayed and the user is logged out of the system.
   
 4.5 - The Radio Button / Check Box viewing facility is not working for the volunteer data module. Due to lack of time, the same was not pursued.  
+  
+4.6 - VTMS functionality of sending Email confirmations to volunteers for task application as well as task approvals is functioning.
+  
+4.7 - We had planned to incorporate User Login / Signup via Facebook & Google but could not do so due to time limitation.
 
   <b>Summary</b> - We sincerely thank you for the opportunity to enable us to participate in this project and also thanking you for your valued time in reviewing our submission.
 
