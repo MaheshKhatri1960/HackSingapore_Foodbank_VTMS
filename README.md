@@ -1,6 +1,6 @@
 # HackSingapore_Foodbank_VTMS
 
-1.0  <b>Overview </b> - Submission for HackSingapore's No Code Low Code Challenge for Foodbank Singapore's Volunteer to Task Management System (VTMS)
+1.0  <b>Overview </b> - Volunteer to Task Management System (VTMS) - Team MK Submission for HackSingapore's No Code Low Code Challenge for Food Bank Singapore
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS - Overview](http://www.kaytek.co.in/images/fbsgvtms/mk_vtms_intro_1175_369.png)
 
