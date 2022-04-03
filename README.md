@@ -26,3 +26,12 @@ The system is based on a web based cloud platform. Please see the following Logi
 ![Hack Singapore 2022 Food Bank Challenge - VTMS - Administration Module Screen](http://www.kaytek.co.in/images/fbsgvtms/mk_vtms_administration_module_976_438.png)
 
 <p align="center"> <b>Screen 3 - VTMS Administration Module - Main Scren </b></p> <br>
+
+Please find below our submission as regards our project's features across the four judging criteria of Design, Technical Complexity, Mass Usability & Creativity. 
+
+![Hack Singapore 2022 Food Bank Challenge - VTMS Project as per four judging criteria ](http://www.kaytek.co.in/images/fbsgvtms/vtms_judging_criteria_points_1280_720.png)
+
+<p align="center"> <b>Screen 4 - VTMS - Salient features as regards the four judging criteria </b></p> <br>
+
+
+
