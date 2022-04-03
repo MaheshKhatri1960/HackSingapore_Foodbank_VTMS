@@ -50,14 +50,26 @@ It has the following functionalities as represented by the buttons shown above i
 
 The above are the current functionalities of the volunteer module. It is important to mention that currently the stress has been on getting the functionality in place first for the volunteer module. Once the same is accepted, then the main task would be to work on the responsive design aspect of the volunteer module across different devices. This will be a very important aspect for success of the module as regards it's acceptance and usage by the volunteers. Of course, enhanced user interface can be strived for based on the most contemporary social media interaction platforms like Instagram, etc which are popular amongst the young volunteers.
 
-Let us now look at the Administration module. 
-
-
 2.2 - <b> Administration module </b> - Enables FB SG to browse volunteer profile & interests, create tasks, approve task applications, automatically send task application receipt & task approval emails. It also stores data relating to volunteer task management - FB SG locations, facilities, work shift timings, restrictions, work areas / functions, job role duties & responsibilities, requirements & qualifications and manage database along with other key stakeholders such as beneficiaries, donors & volunteer groups. This is for both individuals & organisations. See Screen 3 below. 
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS - Administration Module Screen](http://www.kaytek.co.in/images/fbsgvtms/mk_vtms_administration_module_976_438.png)
 
 <p align="center"> <b>Screen 3 - VTMS Administration Module - Main Scren </b></p> <br>
+
+The administration module has the following functionalities :
+
+2.2.1 - <b> Administration Metrics </b> - This displays information as regards the numbers handled by the system with respect to 3 main categories currently : Volunteers & Job Role Task related, Food Bank Facilities related and lastly Stakeholder related. 
+
+The next row displays the buttons representing four different master information types as shown below :
+
+2.2.2 - <b>Work Shift / Timings</b> - This captures information as regards the different times followed by various Food Bank facilities. 
+
+2.2.3 - <b>Location</b> - Different Food Bank location types, their sub types, addresses, work timings, etc are stored here.
+
+2.2.4 - <b>Work Areas / Functions</b> - This lists the different functional work areas that are relevant to Food Bank operations. Volunteer Job Roles get defined within a parent work area / function. Or conversely, a work area / function can have multiple volunteer job roles. e.g. For 'Delivery Logistics' work area, one could have 'Delivery Assistant' and 'Driver Volunteer' as separate volunteer job roles.
+
+
+
 
 3.0 - <b>Project Judging Parameters</b> - Please find below in Screen 4 our perspective  as regards our project's features across the four judging criteria of Design, Technical Complexity, Mass Usability & Creativity. 
 
