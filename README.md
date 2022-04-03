@@ -84,9 +84,19 @@ Password - 'hacksg2022'
 
 3.4 - <b> Email addresses </b> - Avoid using Hotmail, Yahoo, OUtlook and Live email addresses for credentials as users have reported these email addresses as not being able to deliver by Sendgrid which is the service used by Bubble.
 
+4.0 - <b>Known System Issues / Limitations / Points</b>
+  
+4.1 - Currently, the system has facilities for adding & viewing data only in the modules. For the volunteer data, it is possible to change the non-key details. (ie.details other than email address). A delete faclity has not been provided in the absence of clarity of business rules for retention of stakeholder data as well as the hackathon time constraints.
+  
+4.2 - The future modules section in the Administrative module gives details on those modules which we felt after discussions with Food Bank to keep pending for the hackathon phase. For some of these modules as mentioned, the 'Add' / 'Create' and 'View' facilities are working. Some modules like Warehouse, Bank Box were subsumed into the Location module. 
+  
+4.3 - Currently, our system is not checking as to whether a newly signed user has clicked on the confirmation link sent by the VTMS module. Future system operations will check for 'User's Confirmed Email status'. In this hackathon phase, we found it prudent to focus on the functional requirements of the Volunteer Task acivities.
+  
+4.4 - There is a check in the system of a volunteer user trying to log into the administration module or vice versa. An Error message is displayed and the user is logged out of the system.
+  
+4.5 - The Radio Button / Check Box viewing facility is not working for the volunteer data module. Due to lack of time, the same was not pursued.  
 
-
-We sincerely thank you for the opportunity to enable us to participate in this project and also thanking you for your valued time in reviewing our submission.
+  <b>Summary</b> - We sincerely thank you for the opportunity to enable us to participate in this project and also thanking you for your valued time in reviewing our submission.
 
 (c) Hack Singapore, Food Bank Singapore, Mahesh Khatri 2022 onwards.
 
