@@ -54,7 +54,7 @@ A few points as regards the above are further articulated below :
   
 2.4.1 - <b>Balance</b> - One of the toughest challenges in this solution design is to strike a fine balance between time convenience of volunteers and administration staff versus the degree of data discipline and depth required for the unstructured complex nature of the volunteering tasks in an increasingly  higher level of scale of operations. 
   
-2.4.2 - <Best Practices</b> - We strived to look at global best practices to emulate for this project's design and implementation. These can be detailed appropriately. 
+2.4.2 - <b> Best Practices</b> - We strived to look at global best practices to emulate for this project's design and implementation. These can be detailed appropriately. 
 
 <p align="center"> <b>Screen 4 - VTMS - Salient features as regards the four judging criteria </b></p> <br>
 
