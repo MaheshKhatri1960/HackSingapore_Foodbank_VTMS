@@ -1,4 +1,4 @@
-# HackSingapore_Foodbank_VTMS
+<p align="center"> # HackSingapore_Foodbank_VTMS </p>
 
 Submission for HackSingapore's No Code Low Code Challenge for Foodbank Singapore's Volunteer to Task Management System (VTMS)
 
