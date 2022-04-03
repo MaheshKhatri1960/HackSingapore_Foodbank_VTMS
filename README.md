@@ -1,10 +1,10 @@
 # HackSingapore_Foodbank_VTMS
 
-1.0  Overview of the Submission for HackSingapore's No Code Low Code Challenge for Foodbank Singapore's Volunteer to Task Management System (VTMS)
+1.0  <b>Overview </b> - Submission for HackSingapore's No Code Low Code Challenge for Foodbank Singapore's Volunteer to Task Management System (VTMS)
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS - Overview](http://www.kaytek.co.in/images/fbsgvtms/mk_vtms_intro_1175_369.png)
 
-Food Bank Singapore (FB SG) Volunteer Task Management System (VTMS)  has two linked web cloud based software modules: Volunteer & Administration which are used as the frontend and backend work activities respectively.
+<b>Food Bank Singapore (FB SG) Volunteer Task Management System (VTMS)</b>  has two linked web cloud based software modules: Volunteer & Administration which are used as the frontend and backend work activities respectively.
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS - Module Activities](http://www.kaytek.co.in/images/fbsgvtms/mk_vtms_overview_1280_720.png)
 
@@ -26,7 +26,7 @@ The system is based on a web based cloud platform. Please see the following Logi
 
 <p align="center"> <b>Screen 3 - VTMS Administration Module - Main Scren </b></p> <br>
 
-2.0 - Project Judging Parameters - Please find below in Screen 4 our perspective  as regards our project's features across the four judging criteria of Design, Technical Complexity, Mass Usability & Creativity. 
+2.0 - <b>Project Judging Parameters</b> - Please find below in Screen 4 our perspective  as regards our project's features across the four judging criteria of Design, Technical Complexity, Mass Usability & Creativity. 
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS Project as per four judging criteria ](http://www.kaytek.co.in/images/fbsgvtms/vtms_judging_criteria_points_1280_720.png)
 
