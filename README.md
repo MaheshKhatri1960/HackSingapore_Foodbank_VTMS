@@ -36,7 +36,7 @@ The system is based on a web based cloud platform. Please see the following Logi
 
 3.1 - <b>Volunteer Role - Sample User Credentials</b> :
 
-Username - 'mahesh@kaytek.in'  
+Username - 'mahesh@kaytek.in' 
 Password - 'omsairam'
 
 The above volunteer user has some data associated with it.
