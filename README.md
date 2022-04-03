@@ -16,7 +16,11 @@ As can be seen from the screen above, the proposed system is designed to be quit
 
 <p align="center"> <b>Screen 1 - VTMS Login Screen with separate credentials for Volunteers and Administrators. </b></p> <br>
 
-From the screen above, it can be seen that the volunteer can visit the Food Bank Singapore website as well as the various social media (facebook, Instagram, Linkedin) handle's web properties. On the top right hand side, a link to FB SG's latest media campaign for 100 SGD per month of donation is also provided. Also, in line with their main website showing the Clock Timer for ending Food Hunger in Singapore, to achieve a consistent brand image, the same is also shown here. 
+From the screen above, it can be seen that the volunteer can visit the Food Bank Singapore website as well as the various social media (facebook, Instagram, Linkedin) handle's web properties. On the top right hand side, a link to FB SG's latest media campaign for 100 SGD per month of donation is also provided. Also, in line with their main website showing the Clock Timer for ending Food Hunger in Singapore, to achieve a consistent brand image, the same is also shown here.
+
+There is a provision for both volunteers and administrators to log in from the above web site as well as sign up for the first time. In the case of 'Sign Up', an email confirmation is sent to their email address. There is also a check incorporated to ensure that volunteers and administrators cannot log in by mistake into the other's website. This is for maintaining confidentiality & privacy of data. 
+
+It is also proposed that the website will be compliant as per Singapore's Personal Data Protection Act (PDPA) framework. The same has been mentioned on the website.
 
 2.1 - <b> Volunteer Module </b> - Allows volunteers to respond to FB SG volunteer tasks available, offer time based services, view FB SG volunteer job roles responsibilities, requirements, browse task related videos and manage their task related data & metrics. See Screen 2 below.
 
