@@ -4,7 +4,7 @@
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS - Overview](http://www.kaytek.co.in/images/fbsgvtms/mk_vtms_intro_1175_369.png)
 
-Our proposed solution <bVolunteer Task Management System (VTMS)</b>  has two linked web cloud based software modules: a Volunteer module & an Administration module which are used as the frontend and backend work activities respectively.
+Our proposed solution <b> Volunteer Task Management System (VTMS)</b>  has two linked web cloud based software modules: a Volunteer module & an Administration module which are used as the frontend and backend work activities respectively.
 
 ![Hack Singapore 2022 Food Bank Challenge - VTMS - Module Activities](http://www.kaytek.co.in/images/fbsgvtms/mk_vtms_overview_1280_720.png)
 
