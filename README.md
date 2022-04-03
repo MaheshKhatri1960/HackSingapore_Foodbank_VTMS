@@ -36,7 +36,7 @@ It has the following functionalities as represented by the buttons shown above i
 
 2.1.2 - <b>Additional Details</b> - Store a volunteer's additional profile details besides the above basic data. e.g. Driver's License Information, Personal Vehicle Ownership Information, Health Declaration Information, Open to Social Media Updates, Availability and Preferences. This is captured via a Pop Up Form.
 
-2.1.3 - <b>Job Role Interests</b> Enter a volunteer's job role interests based on a selection shown as defined by FB SG.
+2.1.3 - <b>Job Role Interests</b> - Enter a volunteer's job role interests based on a selection shown as defined by FB SG.
 
 2.1.4 - <b>Job Role Details</b> - Browse available Food Bank Volunteer Job Role / Task details - Duties & Responsibilities, Requirements & Qualifications as defined by Food Bank in the administration module.
 
@@ -47,6 +47,11 @@ It has the following functionalities as represented by the buttons shown above i
 2.1.7 - <b>Apply Against Task</b> - In addition to applying via a calendar, a volunteer can also respond to specific Volunteer Job Role Tasks as defined by Food Bank. Here too, once they apply, they get a task application confirmation email automatically. Further fine tuning needs to be done to handle the different time slot wise restrictions as may be applicable (similar to the 5 volunteers per morning / afternoon time slot) for different job roles across different work areas at the different locations.
 
 2.18 - <b>Volunteer Metrics</B> - The system currently displays the number of volunteer applications and approvals received both for calendar based as well as task respnse applications. Since motivation of the volunteers is very important, based on further work interactions between Food Bank and the volunteers, their work activities can be appropriately acted upon as per the various stages shown : <b> Applied --> Assessed --> Approved --> Accepted --> Attended --> Appraised --> Appreciated. </b> The metrics for the same are proposed to be shown in this screen in the future.
+
+The above are the current functionalities of the volunteer module. It is important to mention that currently the stress has been on getting the functionality in place first for the volunteer module. Once the same is accepted, then the main task would be to work on the responsive design aspect of the volunteer module across different devices. This will be a very important aspect for success of the module as regards it's acceptance and usage by the volunteers. Of course, enhanced user interface can be strived for based on the most contemporary social media interaction platforms like Instagram, etc which are popular amongst the young volunteers.
+
+Let us now look at the Administration module. 
+
 
 2.2 - <b> Administration module </b> - Enables FB SG to browse volunteer profile & interests, create tasks, approve task applications, automatically send task application receipt & task approval emails. It also stores data relating to volunteer task management - FB SG locations, facilities, work shift timings, restrictions, work areas / functions, job role duties & responsibilities, requirements & qualifications and manage database along with other key stakeholders such as beneficiaries, donors & volunteer groups. This is for both individuals & organisations. See Screen 3 below. 
 
