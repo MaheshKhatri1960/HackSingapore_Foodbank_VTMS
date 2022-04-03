@@ -33,9 +33,39 @@ Please find below in Screen 4 our perspective  as regards our project's features
 
 <p align="center"> <b>Screen 4 - VTMS - Salient features as regards the four judging criteria </b></p> <br>
 
+<b>Usage Instructions for checking out the system </b> :
+
+<b>Volunteer Role - Sample User Credentials</b> :
+
+Username - 'mahesh@kaytek.in'  
+Password - 'omsairam'
+
+The above volunteer user has some data associated with it.
+
+Username - 'contact@kaytek.in'
+Password - 'hacksg2022'
+
+The above volunteer user does not have much data associated with it.
+
+<b>Administrator Role - Sample User Credentials </b>:
+
+Username - 'khatrimahesh@gmail.com'
+Password - 'omsairam'
+
+Username - 'naraindaskkhatri@gmail.com'
+Password - 'hacksg2022'
+
+Important - When a volunteer user signs up, his or her email address is automatically registered as a volunteer in the system.
+
+Avoid using Hotmail, Yahoo, OUtlook and Live email addresses for credentials as users have reported these email addresses as not being able to deliver by Sendgrid which is the service used by Bubble.
+
+
+
 We sincerely thank you for the opportunity to enable us to participate in this project and also thanking you for your valued time in reviewing our submission.
 
 (c) Hack Singapore, Food Bank Singapore, Mahesh Khatri 2022 onwards.
+
+
 
 
 
